@@ -1,68 +1,46 @@
----
-title: Juyus Muhammad Adinulhaq
-description: IT Implementor & Support | Software Developer (Laravel) dari Yogyakarta.
-lang: id-ID
----
+### Halo, senang berkenalan! 👋
 
-# Juyus Muhammad Adinulhaq
+Saya **Juyus Muhammad Adinulhaq**, lulusan terbaik S1 Informatika dan mahasiswa S2 Ilmu Komputer di Universitas Gadjah Mada, Yogyakarta.
 
-**IT Implementor & Support · Software Developer (Laravel)**
+- 🎓 Sarjana Informatika dengan IPK **3,93/4,00**; Lulusan Terbaik Fakultas Teknik dan Ilmu Komputer, Wisuda ke-44 (2024).
+- 🛠️ Tertarik pada implementasi sistem dan dukungan TI, dengan pengalaman informal menangani troubleshooting komputer, laptop, dan ponsel serta membantu pengguna memakai software.
+- 💻 Memiliki dasar pengembangan web dengan Laravel, PHP, JavaScript, dan SQL.
+- 🔬 Fokus studi S2 pada NLP, teknologi bahasa Indonesia, model bahasa berbasis transformer, dan analisis teks media sosial.
+- 📷 Menikmati fotografi menggunakan ponsel. [Lihat foto di Instagram](https://instagram.com/haqiqien).
+- 📫 [Email](mailto:juyushaqiqi@gmail.com) · [LinkedIn](https://linkedin.com/in/juyusadinulhaq) · Yogyakarta, Indonesia.
 
-Yogyakarta, Indonesia · [+62 8954 1443 5962](tel:+62895414435962) · [juyushaqiqi@gmail.com](mailto:juyushaqiqi@gmail.com) · [LinkedIn](https://linkedin.com/in/juyusadinulhaq)
+### Languages and Tools
 
-## Tentang Saya
+<p align="left">
+<a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=php&theme=dark" alt="PHP" width="40" height="40"/></a>
+<a href="https://laravel.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=laravel&theme=dark" alt="Laravel" width="40" height="40"/></a>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=javascript&theme=dark" alt="JavaScript" width="40" height="40"/></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=python&theme=dark" alt="Python" width="40" height="40"/></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="SQL and databases" width="40" height="40"/></a>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=git&theme=dark" alt="Git" width="40" height="40"/></a>
+</p>
 
-Saya lulusan terbaik S1 Informatika dengan IPK 3,93/4,00 dan saat ini menempuh S2 Ilmu Komputer di Universitas Gadjah Mada. Latar belakang saya mencakup pengembangan perangkat lunak, basis data, dan analisis masalah teknis. Saya memiliki dasar pengembangan web dengan Laravel, PHP, JavaScript, dan SQL, serta terbiasa membantu troubleshooting perangkat dan membimbing pengguna memakai software.
+### Pengalaman
 
-Saya tertarik pada implementasi sistem dan dukungan pengguna. Di luar teknologi, saya menikmati fotografi dan ingin terus mendalami fotografi menggunakan kamera DSLR.
+**Dukungan TI dan mentoring informal · Keluarga dan lingkungan sekitar** *(berjalan)*
 
-## Keahlian
+- Menangani masalah software dan hardware pada perangkat, dari ponsel hingga komputer.
+- Membimbing pengguna non-teknis memakai software dengan penjelasan yang sederhana dan sabar.
+- Menganalisis gejala, mencari penyebab, dan menyelesaikan masalah secara mandiri.
 
-- **Implementasi dan dukungan TI:** troubleshooting software dan hardware pada komputer, laptop, serta ponsel; instalasi dan konfigurasi software; pelatihan pengguna; komunikasi dengan pengguna non-teknis.
-- **Pemrograman dan web:** PHP, Laravel, JavaScript, Python, RESTful API, pengembangan web.
-- **Basis data dan analisis:** SQL, pengelolaan basis data, data warehousing, analisis data.
-- **Bidang lain:** IT audit, machine learning, natural language processing (NLP), pengembangan perangkat lunak.
+### Pendidikan
 
-## Pengalaman
+- **Magister Ilmu Komputer**, Universitas Gadjah Mada · Februari 2026–sekarang. Fokus riset: NLP, teknologi bahasa Indonesia, model bahasa berbasis transformer, dan analisis teks media sosial.
+- **Sarjana Informatika**, Universitas Muhammadiyah Semarang · September 2020–Agustus 2024. IPK 3,93/4,00; Lulusan Terbaik Fakultas Teknik dan Ilmu Komputer.
 
-### Dukungan TI dan mentoring informal · Keluarga dan lingkungan sekitar
+### Sertifikasi dan Prestasi
 
-*Berjalan*
-
-- Menangani troubleshooting perangkat, dari ponsel hingga komputer, termasuk masalah software dan hardware.
-- Membimbing pengguna non-teknis menggunakan berbagai software dengan penjelasan yang sederhana dan sabar.
-- Menganalisis gejala, mencari penyebab masalah, dan menyelesaikannya secara mandiri.
-
-## Pendidikan
-
-### Universitas Gadjah Mada · Magister Ilmu Komputer
-
-*Februari 2026 – sekarang*
-
-Fokus riset: NLP, teknologi bahasa Indonesia, model bahasa berbasis transformer, dan analisis teks media sosial.
-
-### Universitas Muhammadiyah Semarang · Sarjana Informatika
-
-*September 2020 – Agustus 2024 · IPK 3,93/4,00*
-
-Lulusan Terbaik Fakultas Teknik dan Ilmu Komputer pada Wisuda ke-44 (2024).
-
-## Sertifikasi
-
-- Sertifikat Belajar Laravel
-- Code Generation and Optimization Using IBM Granite
-
-## Prestasi
-
+- Sertifikat Belajar Laravel.
+- Code Generation and Optimization Using IBM Granite.
 - Medali Perak, Game Programming Competition, Asosiasi Prodi Informatika (APSI) PTMA.
-- Peserta divisi Data Mining, GemasTIK XV (Pagelaran Mahasiswa Nasional Bidang TIK) 2022.
+- Peserta divisi Data Mining, GemasTIK XV 2022.
 - Juara 2 Bidang Kimia, ON-MIPA, Universitas Muhammadiyah Semarang.
-- Lulusan Terbaik Fakultas Teknik dan Ilmu Komputer, Universitas Muhammadiyah Semarang (2024).
 
-## Fotografi
+### Minat
 
-Saya rutin memotret dan mengelola hasil foto menggunakan ponsel. Lihat pilihan foto saya di [Instagram @haqiqien](https://instagram.com/haqiqien).
-
----
-
-Terbuka untuk kesempatan di bidang implementasi sistem, dukungan TI, dan pengembangan perangkat lunak. [Hubungi saya melalui email](mailto:juyushaqiqi@gmail.com).
+Implementasi sistem, dukungan pengguna, pengembangan perangkat lunak, NLP, dan fotografi. Saya terbuka untuk kesempatan di bidang implementasi sistem dan dukungan TI.
