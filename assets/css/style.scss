@@ -339,7 +339,8 @@ img {
 }
 
 /* GitHub stats images specific styling */
-img[src*="github-readme-stats"] {
+img[src*="github-readme-stats"],
+img[src*="github-stats-extended"] {
   border-radius: 8px;
   border: 1px solid var(--border-color);
   background-color: var(--surface-1);
@@ -687,7 +688,8 @@ footer {
   section p  { font-size: 0.85rem !important; }
   section li { font-size: 0.85rem !important; }
 
-  img[src*="github-readme-stats"] {
+  img[src*="github-readme-stats"],
+  img[src*="github-stats-extended"] {
     display: block;
     width: 100% !important;
     height: auto !important;

@@ -26,3 +26,19 @@ Saya **Juyus Muhammad Adinulhaq**, mahasiswa S2 Ilmu Komputer di Universitas Gad
 - Medali Perak, Game Programming Competition, Asosiasi Prodi Informatika (APSI) PTMA.
 - Peserta divisi Data Mining, GemasTIK XV 2022.
 - Juara 2 Bidang Kimia, ON-MIPA, Universitas Muhammadiyah Semarang.
+
+### GitHub Stats
+
+Ringkasan aktivitas dan bahasa pemrograman dari repositori publik saya:
+
+<p align="left">
+  <a href="https://github.com/haqiqien">
+    <img src="https://github-stats-extended.vercel.app/api?username=haqiqien&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Statistik GitHub Juyus" />
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://github.com/haqiqien">
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=haqiqien&layout=compact&langs_count=8&theme=tokyonight" alt="Bahasa pemrograman teratas di repositori GitHub Juyus" />
+  </a>
+</p>
