@@ -33,12 +33,12 @@ Ringkasan aktivitas dan bahasa pemrograman dari repositori publik saya:
 
 <p align="left">
   <a href="https://github.com/haqiqien">
-    <img src="https://github-stats-extended.vercel.app/api?username=haqiqien&show_icons=true&include_all_commits=true&theme=tokyonight" alt="Statistik GitHub Juyus" />
+    <img src="https://github-stats-extended.vercel.app/api?username=haqiqien&show_icons=true&include_all_commits=true&theme=tokyonight&refresh=20261009-1" alt="Statistik GitHub Juyus" />
   </a>
 </p>
 
 <p align="left">
   <a href="https://github.com/haqiqien">
-    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=haqiqien&layout=compact&langs_count=8&theme=tokyonight" alt="Bahasa pemrograman teratas di repositori GitHub Juyus" />
+    <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=haqiqien&layout=compact&langs_count=8&theme=tokyonight&refresh=20261009-1" alt="Bahasa pemrograman teratas di repositori GitHub Juyus" />
   </a>
 </p>
